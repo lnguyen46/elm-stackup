@@ -1,0 +1,6 @@
+# Apple file system
+.DS_Store
+
+# Test-ideas files.
+test/
+elm-stuff/
